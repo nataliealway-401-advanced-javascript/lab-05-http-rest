@@ -5,8 +5,7 @@
 ### Author: Natalie Alway
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/nataliealway-401-advanced-javascript/lab-06-simple-api/pull/1)
 
 
 
